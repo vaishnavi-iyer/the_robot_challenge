@@ -1,4 +1,8 @@
-# the_robot_challenge
-To test, type---> npm test
+# The Robot Challenge
 
-To run, type ---> npm start
+A NodeJS command line app written with RxJS and Redux.
+
+- `npm install` to install the packages.
+- `npm start` to run the program..
+- `npm test` to run the tests.
+
